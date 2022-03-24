@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy":"http://localhost:5000/api/",
+  "proxy":"https://newbloggingapps.herokuapp.com/api/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
