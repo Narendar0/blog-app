@@ -11,7 +11,10 @@
   },
   "name": "server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
+  "engines": {
+    "node": "16.13.1"
+  },
   "scripts": {
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
